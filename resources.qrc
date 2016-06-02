@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TTCoordinateCapturer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
